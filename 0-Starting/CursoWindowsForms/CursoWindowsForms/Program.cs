@@ -17,7 +17,21 @@ namespace CursoWindowsForms
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_DemonstracaoKey());
+
+            // 0. Hello World
+            //Application.Run(new frm_HelloWorld());
+
+            // 1. Key Info
+            //Application.Run(new Frm_DemonstracaoKey());
+
+            // 2. Valida Senha
+            //Application.Run(new Frm_ValidaSenha());
+
+            // 3. Mascaras
+            //Application.Run(new Frm_Mascara());
+
+            // 3. Valida CPF com Mascara
+            Application.Run(new Frm_ValidaCPF());
         }
     }
 }
