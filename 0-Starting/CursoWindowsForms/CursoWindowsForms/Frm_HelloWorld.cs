@@ -19,7 +19,10 @@ namespace CursoWindowsForms
 
         private void btn_Sair_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            // Obs: Quando chamado por outra janela ao executar esse metodo fecha o programa inteiro, para não ocorrer chamar this.Close
+            //Application.Exit();
+
+            this.Close();
         }
 
         private void btn_ModificaTitulo_Click(object sender, EventArgs e)

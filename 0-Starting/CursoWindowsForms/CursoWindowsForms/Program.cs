@@ -30,8 +30,11 @@ namespace CursoWindowsForms
             // 3. Mascaras
             //Application.Run(new Frm_Mascara());
 
-            // 3. Valida CPF com Mascara
-            Application.Run(new Frm_ValidaCPF());
+            // 4. Valida CPF com Mascara
+            //Application.Run(new Frm_ValidaCPF());
+
+            // 5. Programa Principal
+            Application.Run(new Frm_Principal());
         }
     }
 }

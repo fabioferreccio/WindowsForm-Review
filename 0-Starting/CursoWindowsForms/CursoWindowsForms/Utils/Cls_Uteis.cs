@@ -11,7 +11,7 @@
             int soma;
             int resto;
             cpf = cpf.Trim();
-            cpf = cpf.Replace(".", "").Replace("-", "").Replace(",", "");
+            cpf = cpf.Replace(".", "").Replace("-", "").Replace(",", "").Replace(" ", "0");
 
             if (cpf.Equals("99999999999") | cpf.Equals("88888888888") | cpf.Equals("77777777777") | cpf.Equals("66666666666") |
                cpf.Equals("55555555555") | cpf.Equals("44444444444") | cpf.Equals("33333333333") | cpf.Equals("22222222222") |

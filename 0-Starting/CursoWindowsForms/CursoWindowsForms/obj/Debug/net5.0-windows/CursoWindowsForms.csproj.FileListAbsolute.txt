@@ -20,3 +20,4 @@ D:\Work\[ForByTech]\WindowsForm-Review\0-Starting\CursoWindowsForms\CursoWindows
 D:\Work\[ForByTech]\WindowsForm-Review\0-Starting\CursoWindowsForms\CursoWindowsForms\obj\Debug\net5.0-windows\CursoWindowsForms.Frm_ValidaSenha.resources
 D:\Work\[ForByTech]\WindowsForm-Review\0-Starting\CursoWindowsForms\CursoWindowsForms\obj\Debug\net5.0-windows\CursoWindowsForms.Frm_Mascara.resources
 D:\Work\[ForByTech]\WindowsForm-Review\0-Starting\CursoWindowsForms\CursoWindowsForms\obj\Debug\net5.0-windows\CursoWindowsForms.Frm_ValidaCPF.resources
+D:\Work\[ForByTech]\WindowsForm-Review\0-Starting\CursoWindowsForms\CursoWindowsForms\obj\Debug\net5.0-windows\CursoWindowsForms.Frm_Principal.resources
